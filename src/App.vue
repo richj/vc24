@@ -1,3 +1,7 @@
+<script setup>
+import Navbar from '@/components/Navbar.vue';
+</script>
+
 <template>
-  <H1>Vue Jobs</H1>
+  <Navbar />
 </template>
