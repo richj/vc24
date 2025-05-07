@@ -1,0 +1,4 @@
+npm install node
+npm install vue
+npm install primeicons
+npm install vue-router
