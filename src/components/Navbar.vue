@@ -28,7 +28,7 @@ const isActiveLink = (routePath) => {
                   isActiveLink('/')
                     ? 'bg-green-900'
                     : 'hover:bg-gray-900 text-white',
-                  'test-white',
+                  'text-white',
                   'px-3',
                   'py-2',
                   'rounded-md',
@@ -41,7 +41,7 @@ const isActiveLink = (routePath) => {
                   isActiveLink('/jobs')
                     ? 'bg-green-900'
                     : 'hover:bg-gray-900 text-white',
-                  'test-white',
+                  'text-white',
                   'px-3',
                   'py-2',
                   'rounded-md',
@@ -54,7 +54,7 @@ const isActiveLink = (routePath) => {
                   isActiveLink('/jobs/add')
                     ? 'bg-green-900'
                     : 'hover:bg-gray-900 text-white',
-                  'test-white',
+                  'text-white',
                   'px-3',
                   'py-2',
                   'rounded-md',

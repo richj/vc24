@@ -2,3 +2,6 @@ npm install node
 npm install vue
 npm install primeicons
 npm install vue-router
+server in script in package.json
+npm i 'axios'
+npm i vue-spinner
